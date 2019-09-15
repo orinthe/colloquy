@@ -1,4 +1,6 @@
 # Colloquy
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Forinthe%2Fcolloquy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Forinthe%2Fcolloquy?ref=badge_shield)
+
 
 ## Dependencies
 
@@ -17,3 +19,7 @@ To build and run an app, open up `Colloquy.xcworkspace` and select the appropria
 ## Additional Documentation
 
 … can be found at http://colloquy.info/project/wiki, but it might be outdated.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Forinthe%2Fcolloquy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Forinthe%2Fcolloquy?ref=badge_large)
